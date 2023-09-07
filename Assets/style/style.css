@@ -1,0 +1,11 @@
+    /* Example styles for the cart count */
+    .cart-count {
+        background-color: #FF6347;
+        color: white;
+        font-size: 12px;
+        padding: 2px 6px;
+        border-radius: 50%;
+        position: relative;
+        top: -8px;
+        left: -2px;
+      }
